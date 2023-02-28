@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 global.creator = 'ZeroGanzID'// yourname
-global.MONGO_DB_URI = "mongodb+srv://testapi:testapi@testapi.cjwr39o.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
+global.MONGO_DB_URI = "mongodb+srv://testapi:testapi@rest.fgvv6nv.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "privatez.api@gmail.con" //email
 global.email_password = "qhauhjotskldppka" //application password email

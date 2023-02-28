@@ -1,9 +1,9 @@
 const fs = require('fs')
 
 global.creator = 'ZeroGanzID'// yourname
-global.MONGO_DB_URI = "mongodb+srv://testapi:testapi@api.flctakc.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
+global.MONGO_DB_URI = "mongodb+srv://api:api@api.jbeqyx4.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
-global.your_email = "privatez.api@gmail.con" //email
+global.your_email = "privatez.api@gmail.com" //email
 global.email_password = "qhauhjotskldppka" //application password email
 global.limitCount = 200
 global.YUOR_PORT = 8000
